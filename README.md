@@ -55,13 +55,17 @@ streamlit run streamlit_app.py
 
 ## Usage Instructions
 
-# Training the Model
+### Training the Model
 
 Modify hyperparameters, epochs, or batch size in main.py if necessary.
+
 Train the model using the following command:
+
 bash
 Copy code
+
 python main.py
+
 Training and validation metrics will be saved in the results/metrics directory, and plots will be stored in the results/plots directory.
 
 
