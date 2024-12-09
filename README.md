@@ -22,8 +22,11 @@ Evaluation Metrics: BLEU Score, F1-Score, Accuracy, and Loss.
 ### 1. Clone the Repository
 
 Clone the repository to your local machine or directly download the project files:
+
+bash
 git clone https://github.com/yourusername/ImageCaptioning.git
 cd ImageCaptioning
+
 
 ### 2. Install Dependencies
 
