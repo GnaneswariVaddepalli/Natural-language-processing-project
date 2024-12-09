@@ -68,6 +68,25 @@ python main.py
 
 Training and validation metrics will be saved in the results/metrics directory, and plots will be stored in the results/plots directory.
 
+### Evaluating with BLEU Score
+
+Run bleu_scorer.py to calculate BLEU scores for the generated captions:
+
+bash
+Copy code
+
+python bleu_scorer.py
+
+### Contributing
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create a new branch for your feature or fix.
+Submit a pull request for review.
+
+
+
 
 
 
