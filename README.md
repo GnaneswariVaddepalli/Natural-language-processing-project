@@ -53,7 +53,17 @@ Run the Streamlit application for real-time caption generation:
 
 streamlit run streamlit_app.py
 
-Upload an image to generate a caption in real-time.
+## Usage Instructions
+
+# Training the Model
+
+Modify hyperparameters, epochs, or batch size in main.py if necessary.
+Train the model using the following command:
+bash
+Copy code
+python main.py
+Training and validation metrics will be saved in the results/metrics directory, and plots will be stored in the results/plots directory.
+
 
 
 
