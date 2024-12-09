@@ -57,23 +57,17 @@ streamlit run streamlit_app.py
 
 ### Training the Model
 
-Modify hyperparameters, epochs, or batch size in main.py if necessary.
+1. Modify hyperparameters, epochs, or batch size in main.py if necessary.
 
-Train the model using the following command:
-
-bash
-Copy code
+2. Train the model using the following command:
 
 python main.py
 
-Training and validation metrics will be saved in the results/metrics directory, and plots will be stored in the results/plots directory.
+3. Training and validation metrics will be saved in the results/metrics directory, and plots will be stored in the results/plots directory.
 
 ### Evaluating with BLEU Score
 
 Run bleu_scorer.py to calculate BLEU scores for the generated captions:
-
-bash
-Copy code
 
 python bleu_scorer.py
 
@@ -82,7 +76,9 @@ python bleu_scorer.py
 Contributions are welcome! To contribute:
 
 Fork the repository.
+
 Create a new branch for your feature or fix.
+
 Submit a pull request for review.
 
 
