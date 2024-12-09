@@ -1,5 +1,9 @@
 # Image Captioning with Visual Attention
+
+
 ###Project Overview
+
+
 Image Captioning with Visual Attention is a deep learning project designed to generate descriptive textual captions for images. By leveraging a visual attention mechanism, the model dynamically focuses on salient regions of an image while generating captions, resulting in more contextually accurate and relevant descriptions. This project incorporates a ResNet50-based encoder, an LSTM-based decoder, and an interactive Streamlit application for real-time caption generation.
 ###Features
 Attention Mechanism: Enhances caption generation by focusing on critical image regions dynamically.
