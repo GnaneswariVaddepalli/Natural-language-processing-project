@@ -1,4 +1,4 @@
-# Image Captioning with Visual Attention
+# Generating a caption from an Image
 
 
 ## Project Overview
